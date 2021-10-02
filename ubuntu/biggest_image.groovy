@@ -1,0 +1,1 @@
+/media/sarnobat/homes/sarnobat/github/chrome_headless/1_selenium/biggest_image.groovy

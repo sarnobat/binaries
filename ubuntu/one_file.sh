@@ -1,0 +1,1 @@
+/usr/lib/cgi-bin/one_file.sh
