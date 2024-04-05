@@ -1,0 +1,2 @@
+#java -jar ../sh/google-java-format-1.22.0-all-deps.jar
+cat - | java -jar ~/github/binaries/cross-platform/jar/google-java-format-1.22.0-all-deps.jar -
